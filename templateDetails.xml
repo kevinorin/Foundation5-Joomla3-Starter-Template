@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+	<name>Joomla 3 Zurb Foundation 5 Starter Template</name>
+	<creationDate>2016-01-20</creationDate>
+	<author>Kevin O. Williams</author>
+	<authorEmail>kevin@kevinw.me</authorEmail>
+	<authorUrl>http://www.kevinw.me</authorUrl>
+	<copyright>Kevin O. Williams 2016</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.2</version>
+	<description>Joomla 3 resposnive template using Zurb Foundation 3</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>assets/img</folder>
+		<folder>assets/css</folder>
+		<folder>assets/scss</folder>
+		<folder>node_modules</folder>
+	</files>
+	<positions>
+		<position>banner</position>
+		<position>debug</position>
+		<position>position-0</position>
+		<position>position-1</position>
+		<position>position-2</position>
+		<position>position-3</position>
+		<position>4-sideMenu</position>
+		<position>5-ftStories</position>
+		<position>6-StatsMap</position>
+		<position>position-7</position>
+		<position>position-8</position>
+		<position>9-MediaPartners</position>
+		<position>position-10</position>
+		<position>position-11</position>
+		<position>position-12</position>
+		<position>position-13</position>
+		<position>position-14</position>
+		<position>footer</position>
+	</positions>
+</extension>
